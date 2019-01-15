@@ -1,0 +1,8 @@
+<resources>
+
+  <style name="Base.TextInputStyle" parent="Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+    <item name="errorEnabled">true</item>
+  </style>
+
+  <style name="Base.EditTextStyle" parent="Widget.AppCompat.EditText"/>
+</resources>

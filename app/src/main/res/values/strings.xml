@@ -1,0 +1,13 @@
+<resources>
+  <string name="app_name">MDDropDown Sample</string>
+  <string name="title_activity_main">MainActivity</string>
+  <string name="dropdown_sample">Material DropDown Sample</string>
+  <string-array name="countries">
+    <item>India</item>
+    <item>Russia</item>
+    <item>USA</item>
+    <item>Canada</item>
+    <item>Germany</item>
+    <item>Mexico</item>
+  </string-array>
+</resources>

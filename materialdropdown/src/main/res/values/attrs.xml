@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <declare-styleable name="MaterialDropDown">
+    <attr format="string" name="hintText"/>
+    <attr format="reference" name="hintTextColor"/>
+    <attr format="reference" name="textColor"/>
+    <attr format="string" name="text"/>
+    <attr format="integer" name="listHeight"/>
+  </declare-styleable>
+</resources>

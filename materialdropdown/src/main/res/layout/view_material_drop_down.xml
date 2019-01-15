@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.TextInputLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/tilMaterialDropdown"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    style="@style/Base.TextInputStyle"
+    >
+
+  <android.support.design.widget.TextInputEditText
+      android:id="@+id/etDropDown"
+      android:layout_width="match_parent"
+      android:layout_height="wrap_content"
+      android:cursorVisible="false"
+      android:drawableEnd="@drawable/ic_arrow_drop_down"
+      android:drawableRight="@drawable/ic_arrow_drop_down"
+      android:importantForAutofill="no"
+      android:inputType="none"
+      android:longClickable="false"
+      android:saveEnabled="false"
+      android:textIsSelectable="false"
+      />
+</android.support.design.widget.TextInputLayout>
