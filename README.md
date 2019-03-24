@@ -5,7 +5,8 @@ A dropdown which looks like material component outlined TextInputLayout.
 
 
 ##Syntax
-```materialDropDownCountries.setList(list,object :MaterialDropDownListener{
+```
+materialDropDownCountries.setList(list,object :MaterialDropDownListener{
       override fun selectedItem(
         text: String,
         position: Int
